@@ -37,14 +37,22 @@
 
         <p>
           Our plan now is to serve customers all over the region, and are
-          thrilled that we're able to turn our passion into our own website. We
-          hope you enjoy our products as much as we enjoy offering them to you.
+          thrilled that we're able to turn our passion into our own website.
+
+          <br />
+
+          We hope you enjoy our products as much as we enjoy offering them to
+          you.
         </p>
 
         <p>
           If you have any questions or comments, please don't hesitate to
-          contact us. Our team will help you as soon as they can. Together, we
-          can reflect on the past and make a significant change to IT.
+          contact us. Our team will help you as soon as they can.
+
+          <br />
+
+          Together, we can reflect on the past and make a significant change to
+          IT.
         </p>
 
         <p>Sincerely, the MIЯROR team.</p>

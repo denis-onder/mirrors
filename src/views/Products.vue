@@ -30,11 +30,6 @@
         <p>Product: 6</p>
         <img src="../assets/products/7.jpg" :alt="name" />
       </div>
-
-      <div class="product">
-        <p>Product: 7</p>
-        <img src="../assets/products/7.jpg" :alt="name" />
-      </div>
     </div>
   </div>
 </template>

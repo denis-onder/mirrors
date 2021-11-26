@@ -8,6 +8,8 @@
 <style>
 html {
   min-height: 100vh;
+  background-color: black;
+  color: rgb(38, 214, 214);
 }
 body {
   margin: 0;

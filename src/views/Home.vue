@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <img src="../assets/home.jpg" alt="home" />
     <HelloWorld />
   </div>
 </template>

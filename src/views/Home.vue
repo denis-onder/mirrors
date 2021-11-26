@@ -1,9 +1,18 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+    <HelloWorld />
   </div>
 </template>
+
+<style scoped>
+.home {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+</style>
 
 <script lang="ts">
 import { Options, Vue } from "vue-class-component";

@@ -1,5 +1,48 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="container">
+    <div class="about-text">
+      <h1>About Us</h1>
+      <div>
+        <p>
+          Welcome to MIЯROR, your number one source for technological household
+          items.
+        </p>
+
+        <p>
+          We're dedicated to giving you the very best experience when it comes
+          to practical, beautifully designed mirrors which are inovative and
+          practical, with a focus on design, usefulness and affordable prices.
+        </p>
+
+        <p>
+          Founded in 2021 by our hard-working team, MIЯROR has come a long way
+          from its beginnings in Tuzla. When we first started out, our passion
+          for practical mirrors with a technological twist drove us to do tons
+          of research and put all our efforts into it so that MIЯROR can offer
+          you the currently most advanced mirror you have ever had the pleasure
+          to own.
+        </p>
+
+        <p>
+          Our plan now is to serve customers all over the region, and are
+          thrilled that we're able to turn our passion into our own website. We
+          hope you enjoy our products as much as we enjoy offering them to you.
+        </p>
+
+        <p>
+          If you have any questions or comments, please don't hesitate to
+          contact us. Our team will help you as soon as they can. Together, we
+          can reflect on the past and make a significant change to IT.
+          Sincerely, the MIЯROR team.
+        </p>
+      </div>
+    </div>
   </div>
 </template>
+
+<style scoped>
+.about-text {
+  font-size: 18px;
+  margin: auto 36px;
+}
+</style>

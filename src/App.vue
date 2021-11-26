@@ -16,6 +16,13 @@ body {
 .app-container {
   height: 100vh;
 }
+.container {
+  min-height: 75%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 </style>
 
 <script lang="ts">

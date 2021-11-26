@@ -1,18 +1,8 @@
 <template>
-  <div class="home">
+  <div class="container">
     <HelloWorld />
   </div>
 </template>
-
-<style scoped>
-.home {
-  height: 80%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-</style>
 
 <script lang="ts">
 import { Options, Vue } from "vue-class-component";

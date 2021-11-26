@@ -4,8 +4,12 @@
       <h1>We make IT happen.</h1>
     </div>
     <div class="actions">
-      <button style="margin-right: 12px">About Us</button>
-      <button style="margin-left: 12px">Products</button>
+      <router-link style="margin-right: 12px" :to="{ name: 'About' }"
+        >About Us
+      </router-link>
+      <router-link style="margin-left: 12px" :to="{ name: 'Products' }"
+        >Products</router-link
+      >
     </div>
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="width: 100%">
     <div class="hello">
       <h1>We make IT happen.</h1>
     </div>
@@ -17,10 +17,20 @@
         >Products</router-link
       >
     </div>
+    <div class="centered">
+      <button class="button">Customize Your Own</button>
+    </div>
   </div>
 </template>
 
 <style scoped>
+.hello {
+  width: 100%;
+}
+.centered {
+  margin-top: 24px;
+  text-align: center;
+}
 .button {
   background-color: rgb(38, 214, 214);
   color: black;
@@ -28,6 +38,8 @@
   border-radius: 4px;
   text-decoration: none;
   font-weight: bold;
+  outline: none;
+  border: none;
 }
 </style>
 
